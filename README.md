@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav Sagar</h1>
-<h3 align="center">Backend Developer | Java Enthusiast | Open Source Advocate</h3>
+<h3 align="center">Backend Developer | Java Enthusiast | Open Source Contributer</h3>
 
 ---
 
