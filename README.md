@@ -4,13 +4,15 @@
 ---
 
 # 💫 About Me:
-🚀 Software Engineer at **Glance (InMobi Group)**, based in Bengaluru, building AI-driven, scalable backend systems for content platforms like Roposo and Glance Spaces in the US.   
-🎓 B.Tech Computer Science (Silver Medalist) from Rajasthan Technical University, CGPA: 9.10/10.    
+
+🚀 Software Engineer at **Glance (InMobi Group)**, based in Bengaluru, building AI-driven, scalable backend systems for content platforms like Roposo and Glance Spaces in the US.  
+🎓 B.Tech Computer Science (Silver Medalist) from Rajasthan Technical University, CGPA: 9.10/10.  
 💡 Passionate about microservices, clean architecture, and real-world ML applications in production.
 
 ---
 
 ## 🌐 Let's Connect:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavsagar)
 [![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white)](https://medium.com/@prnv1009)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/PranavSagar)
@@ -49,34 +51,39 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 
-**Other Tools:** Apache Airflow, PowerBI, Tableau, Streamlit 
+**Other Tools:** Apache Airflow, PowerBI, Tableau, Streamlit
 
 ---
 
 ## 🚀 Featured Projects (From College)
 
-### 📌 [Project Vaani – Smart India Hackathon](https://github.com/PranavSagar/Project-Vaani---SIH)  
-Built a scholarship disbursement platform, cutting travel effort by 150+ km.  
-### 📌 [Amazon Review Sentiment Analysis](https://github.com/PranavSagar/ReviewSentiments)  
-Developed an NLP pipeline using NLTK with 87% accuracy. 
+### 📌 [Project Vaani – Smart India Hackathon](https://github.com/PranavSagar/Project-Vaani---SIH)
 
-### 📌 [House Pricing Prediction with Flask](https://github.com/PranavSagar)  
-End-to-end ML solution deployed via Flask—predicting real estate prices using linear regression & a user-friendly web UI.  
+Built a scholarship disbursement platform, cutting travel effort by 150+ km.
+
+### 📌 [Amazon Review Sentiment Analysis](https://github.com/PranavSagar/ReviewSentiments)
+
+Developed an NLP pipeline using NLTK with 87% accuracy.
+
+### 📌 [House Pricing Prediction with Flask](https://github.com/PranavSagar)
+
+End-to-end ML solution deployed via Flask—predicting real estate prices using linear regression & a user-friendly web UI.
 
 ---
 
 ## 🏆 Highlights & Achievements
 
-- 🥈 **Smart India Hackathon 2022** – National runner-up (Team Wiresharks)  (not gonna lie ...one of the best Team work)
-- 👨‍💻 **4+ PRs** merged during Hacktoberfest 2022  
-- 🎓 **Silver Medalist** in B.Tech at RTU  
-- 🧠 **Top 25%** coder on LeetCode (rating: 1577)  
-- ✍️ Published on Medium (*Monte Carlo Simulation* is most viewed)  
-- ♟️ **Chess Champion** – Winner of ‘Check & Mate’ in 2021–2023  
+- 🥈 **Smart India Hackathon 2022** – National runner-up (Team Wiresharks) (not gonna lie ...one of the best Team work)
+- 👨‍💻 **4+ PRs** merged during Hacktoberfest 2022
+- 🎓 **Silver Medalist** in B.Tech at RTU
+- 🧠 **Top 25%** coder on LeetCode (rating: 1577)
+- ✍️ Published on Medium (_Monte Carlo Simulation_ is most viewed)
+- ♟️ **Chess Champion** – Winner of ‘Check & Mate’ in 2021–2023
 
 ---
 
 ### ✍️ Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
