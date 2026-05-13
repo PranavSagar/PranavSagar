@@ -1,7 +1,7 @@
-<!-- Header -->
+<!-- Header — capsule-render (v2) -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0d1117&height=220&section=header&text=Pranav%20Sagar&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Java%20%26%20Spring%20Boot&descAlignY=56&descSize=19&descColor=8b949e)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=220&section=header&text=Pranav%20Sagar&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Java%20%26%20Spring%20Boot&descAlignY=56&descSize=19&descColor=c9d1d9" alt="header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=SDE+%40+Glance%2C+InMobi+Group+%7C+Bengaluru;Kafka+%C2%B7+gRPC+%C2%B7+Spring+Boot+%C2%B7+Aerospike;800K%2B+QPS+%E2%80%A2+100M%2B+Users+%E2%80%A2+%3C30ms+p95;M.Tech+AI%2FML+%40+BITS+Pilani+(WIL)" alt="Typing SVG" />
 
@@ -71,7 +71,7 @@ public class PranavSagar {
 
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 &nbsp;![PySpark](https://img.shields.io/badge/PySpark-3670A0?style=flat-square&logo=apache-spark&logoColor=white)
-&nbsp;![ETL](https://img.shields.io/badge/ETL_Pipelines-0d1117?style=flat-square&logoColor=white)
+&nbsp;![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-444?style=flat-square&logoColor=white)
 
 <br/>
 
@@ -92,8 +92,6 @@ public class PranavSagar {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PranavSagar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="165"/>
-&nbsp;
 <img src="https://streak-stats.demolab.com?user=PranavSagar&theme=github-dark-blue&hide_border=true" height="165"/>
 
 </div>
@@ -108,16 +106,31 @@ public class PranavSagar {
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/PranavSagar/ReviewSentiments">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PranavSagar&repo=ReviewSentiments&theme=github_dark&hide_border=true"/>
-</a>
-<a href="https://github.com/PranavSagar/Project-Vaani---SIH">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PranavSagar&repo=Project-Vaani---SIH&theme=github_dark&hide_border=true"/>
-</a>
+### [📊 Amazon Review Sentiment Analysis](https://github.com/PranavSagar/ReviewSentiments)
+NLP pipeline achieving **87% accuracy** using Naive Bayes, SVM, and Random Forest classifiers. Full preprocessing with tokenization, stemming, and TF-IDF. Deployed as a real-time Flask web app.
 
-</div>
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-76B900?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### [🗣️ Project Vaani — SIH 2022](https://github.com/PranavSagar/Project-Vaani---SIH)
+Scholarship disbursement platform eliminating 150+ km of rural travel per applicant. Built for **Smart India Hackathon 2022** — **National Runner-Up** out of 1M+ participants.
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
+![ML](https://img.shields.io/badge/Machine_Learning-E25A1C?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -136,11 +149,11 @@ public class PranavSagar {
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=PranavSagar&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=PranavSagar&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="trophies"/>
 
 </div>
 
 ---
 
 <!-- Footer -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0d1117&height=110&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=110&section=footer" alt="footer"/>
