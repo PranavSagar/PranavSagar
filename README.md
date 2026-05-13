@@ -1,111 +1,146 @@
-<h1 align="center">Hi, I'm Pranav Sagar</h1>
-<h3 align="center">Backend Engineer &nbsp;·&nbsp; Distributed Systems &nbsp;·&nbsp; Java & Spring Boot</h3>
+<!-- Header -->
+<div align="center">
 
-<p align="center">
-  <a href="https://pranavsagar.pages.dev">🌐 Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/pranavsagar">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://medium.com/@prnv1009">Medium</a> &nbsp;·&nbsp;
-  <a href="https://leetcode.com/u/prnvsgr">LeetCode</a>
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Pranav%20Sagar&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Java%20%26%20Spring%20Boot&descAlignY=56&descSize=19&descColor=8b949e)
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=SDE+%40+Glance%2C+InMobi+Group+%7C+Bengaluru;Kafka+%C2%B7+gRPC+%C2%B7+Spring+Boot+%C2%B7+Aerospike;800K%2B+QPS+%E2%80%A2+100M%2B+Users+%E2%80%A2+%3C30ms+p95;M.Tech+AI%2FML+%40+BITS+Pilani+(WIL)" alt="Typing SVG" />
 
-## About Me
+<br/>
 
-SDE at **[Glance, InMobi Group](https://glance.com)**, Bengaluru — designing and operating backend systems that serve **100M+ users** across AI-driven content platforms.
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pranavsagar.pages.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pranavsagar)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@prnv1009)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/prnvsgr)
 
-- Architected a content enrichment microservice: **800K+ QPS · <30ms p95 latency** using Kafka, Redis & Aerospike
-- Designed **dual-write architecture** enabling zero-downtime migrations across distributed systems
-- Reduced PySpark compute costs by **35%** via DataFrame caching; cut API costs by **60%** with intelligent caching
-- Built a **reusable observability framework** (gRPC interceptors + Prometheus) adopted across 5+ services
-- Deployed a release automation platform on GKE that cut deployment time by **90%**
-- Pursuing **M.Tech AI & ML at BITS Pilani** (Work Integrated Learning Programme)
+</div>
 
 ---
 
-## Tech Stack
+## 🧑‍💻 About Me
 
-**Languages**
+```java
+public class PranavSagar {
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0.svg?style=flat&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=flat&logo=postgresql&logoColor=white)
+    String  company  = "Glance, InMobi Group — Bengaluru, India";
+    String  role     = "SDE 1 · Backend Developer (Sept 2023 – Present)";
+    String  learning = "M.Tech AI & ML @ BITS Pilani (Work Integrated)";
 
-**Backend & Messaging**
+    String[] impact  = {
+        "800K+ QPS · <30ms p95 latency · 100M+ users",
+        "35–60% compute & API cost reductions",
+        "Zero-downtime migrations via dual-write architecture",
+        "Reusable observability framework across 5+ services",
+        "90% reduction in deployment time via GKE automation",
+    };
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20.svg?style=flat&logo=apache-kafka&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-%230F9D58.svg?style=flat&logo=google&logoColor=white)
-![Protobuf](https://img.shields.io/badge/Protobuf-4285F4.svg?style=flat&logo=google&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000.svg?style=flat&logo=flask&logoColor=white)
+    String[] passions = {
+        "Distributed Systems",
+        "Event-Driven Architecture",
+        "Performance Engineering",
+        "Observability & Reliability",
+    };
+}
+```
 
-**Databases & Caching**
+---
 
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=flat&logo=mysql&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01.svg?style=flat&logo=clickhouse&logoColor=black)
+## ⚙️ Tech Stack
+
+<div align="center">
+
+**Languages · Backend · Messaging**
+
+[![Skills](https://skillicons.dev/icons?i=java,python,spring,kafka,flask&perline=8)](https://skillicons.dev)
+
+&nbsp;![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white)
+&nbsp;![Protobuf](https://img.shields.io/badge/Protobuf-336791?style=flat-square&logoColor=white)
+&nbsp;![Kafka Streams](https://img.shields.io/badge/Kafka_Streams-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+
+<br/>
+
+**Databases · Caching**
+
+[![Skills](https://skillicons.dev/icons?i=redis,postgres,mysql&perline=8)](https://skillicons.dev)
+
+&nbsp;![Aerospike](https://img.shields.io/badge/Aerospike-C22032?style=flat-square&logoColor=white)
+&nbsp;![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+
+<br/>
 
 **Data Processing**
 
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C.svg?style=flat&logo=apachespark&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-3670A0.svg?style=flat&logo=apache-spark&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+&nbsp;![PySpark](https://img.shields.io/badge/PySpark-3670A0?style=flat-square&logo=apache-spark&logoColor=white)
+&nbsp;![ETL](https://img.shields.io/badge/ETL_Pipelines-0d1117?style=flat-square&logoColor=white)
 
-**Infrastructure & DevOps**
+<br/>
 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689.svg?style=flat&logo=helm&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+**Infrastructure · DevOps · Observability**
 
-**Observability**
+[![Skills](https://skillicons.dev/icons?i=kubernetes,docker,gcp,prometheus,grafana,git&perline=8)](https://skillicons.dev)
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=flat&logo=grafana&logoColor=white)
+&nbsp;![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+&nbsp;![GKE](https://img.shields.io/badge/GKE-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+&nbsp;![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+&nbsp;![Distributed Tracing](https://img.shields.io/badge/Distributed_Tracing-7B61FF?style=flat-square&logoColor=white)
 
----
-
-## Featured Projects
-
-### [Amazon Review Sentiment Analysis](https://github.com/PranavSagar/ReviewSentiments)
-NLP pipeline using NLTK, TF-IDF vectorization, and multiple classifiers (Naive Bayes, SVM, Random Forest). Achieved **87% accuracy** in sentiment classification. Deployed as an interactive Flask web app for real-time predictions.  
-`Python` `NLTK` `scikit-learn` `Flask` `NLP`
-
-### [Project Vaani – Smart India Hackathon 2022](https://github.com/PranavSagar/Project-Vaani---SIH)
-Scholarship disbursement platform built to eliminate bureaucratic travel burden for rural applicants. Reached the **national final — Runner-Up** out of 1M+ participants.  
-`Python` `Flask` `Machine Learning`
+</div>
 
 ---
 
-## Achievements
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PranavSagar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" height="165"/>
+&nbsp;
+<img src="https://streak-stats.demolab.com?user=PranavSagar&theme=github-dark-blue&hide_border=true" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PranavSagar&theme=github-compact&hide_border=true&area=true&area_color=58a6ff&color=58a6ff&line=58a6ff&point=ffffff" width="96%"/>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/PranavSagar/ReviewSentiments">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PranavSagar&repo=ReviewSentiments&theme=github_dark&hide_border=true&description_lines_count=2"/>
+</a>
+<a href="https://github.com/PranavSagar/Project-Vaani---SIH">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PranavSagar&repo=Project-Vaani---SIH&theme=github_dark&hide_border=true&description_lines_count=2"/>
+</a>
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
 
 | | |
-|---|---|
-| 🏆 **Avengers Award** — Glance (InMobi) | Highest engineering recognition for system design impact |
+|:---|:---|
+| 🏆 **Avengers Award** — Glance (InMobi) | Top engineering recognition for high-impact system design |
 | 🥈 **Silver Medalist** — B.Tech CS, RTU | CGPA 9.10 / 10.00 |
-| 🥈 **Smart India Hackathon 2022** | National Runner-Up |
+| 🥈 **Smart India Hackathon 2022** | National Runner-Up (1M+ participants) |
 | 📜 **Microsoft Certified** | Azure AI & Data Fundamentals |
-| 💻 **LeetCode** | Rating 1577 · Top 25% |
+| 💻 **LeetCode** | Rating 1577 · Top 25% globally |
 | ✍️ **Published on Medium** | _Monte Carlo Simulation_ — most-read post |
 
----
+<br/>
 
-## GitHub Stats
+<img src="https://github-profile-trophy.vercel.app/?username=PranavSagar&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=6"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PranavSagar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="155"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranavSagar&layout=compact&theme=github_dark&hide_border=true" height="155"/>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <a href="https://linkedin.com/in/pranavsagar"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://medium.com/@prnv1009"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?logo=medium&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://leetcode.com/u/prnvsgr"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://pranavsagar.pages.dev"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white"/></a>
-</p>
+<!-- Footer -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer)
