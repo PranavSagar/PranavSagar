@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Pranav%20Sagar&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Java%20%26%20Spring%20Boot&descAlignY=56&descSize=19&descColor=8b949e)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0d1117&height=220&section=header&text=Pranav%20Sagar&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Java%20%26%20Spring%20Boot&descAlignY=56&descSize=19&descColor=8b949e)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=SDE+%40+Glance%2C+InMobi+Group+%7C+Bengaluru;Kafka+%C2%B7+gRPC+%C2%B7+Spring+Boot+%C2%B7+Aerospike;800K%2B+QPS+%E2%80%A2+100M%2B+Users+%E2%80%A2+%3C30ms+p95;M.Tech+AI%2FML+%40+BITS+Pilani+(WIL)" alt="Typing SVG" />
 
@@ -92,7 +92,7 @@ public class PranavSagar {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PranavSagar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PranavSagar&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="165"/>
 &nbsp;
 <img src="https://streak-stats.demolab.com?user=PranavSagar&theme=github-dark-blue&hide_border=true" height="165"/>
 
@@ -111,10 +111,10 @@ public class PranavSagar {
 <div align="center">
 
 <a href="https://github.com/PranavSagar/ReviewSentiments">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PranavSagar&repo=ReviewSentiments&theme=github_dark&hide_border=true&description_lines_count=2"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PranavSagar&repo=ReviewSentiments&theme=github_dark&hide_border=true"/>
 </a>
 <a href="https://github.com/PranavSagar/Project-Vaani---SIH">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PranavSagar&repo=Project-Vaani---SIH&theme=github_dark&hide_border=true&description_lines_count=2"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PranavSagar&repo=Project-Vaani---SIH&theme=github_dark&hide_border=true"/>
 </a>
 
 </div>
@@ -143,4 +143,4 @@ public class PranavSagar {
 ---
 
 <!-- Footer -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a5c,100:0d1117&height=110&section=footer)
