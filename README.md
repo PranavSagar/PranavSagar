@@ -1,7 +1,7 @@
-<!-- Header — capsule-render (v2) -->
+<!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=220&section=header&text=Pranav%20Sagar&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Java%20%26%20Spring%20Boot&descAlignY=56&descSize=19&descColor=c9d1d9" alt="header"/>
+<img src="./banner.svg" alt="Pranav Sagar — Backend Engineer · Distributed Systems · Java & Spring Boot" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=680&lines=SDE+%40+Glance%2C+InMobi+Group+%7C+Bengaluru;Kafka+%C2%B7+gRPC+%C2%B7+Spring+Boot+%C2%B7+Aerospike;800K%2B+QPS+%E2%80%A2+100M%2B+Users+%E2%80%A2+%3C30ms+p95;M.Tech+AI%2FML+%40+BITS+Pilani+(WIL)" alt="Typing SVG" />
 
