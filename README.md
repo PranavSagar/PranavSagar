@@ -38,6 +38,7 @@ public class PranavSagar {
         "Event-Driven Architecture",
         "Performance Engineering",
         "Observability & Reliability",
+        "MLOps & Production AI",
     };
 }
 ```
@@ -105,6 +106,34 @@ public class PranavSagar {
 ---
 
 ## 🚀 Featured Projects
+
+### 🎯 [Content Intelligence Pipeline](https://github.com/PranavSagar/content-intel-pipeline) — End-to-End MLOps
+
+**[🌐 Live Demo](https://pranavsagar.github.io/classify/)** · **[🤖 API Docs](https://pranavsagar10-content-intel-classifier.hf.space/docs)** · **[🧪 MLflow](https://dagshub.com/PranavSagar/content-intel-pipeline.mlflow)** · **[📊 Grafana](https://pranavsagar.grafana.net/d/content-intel-pipeline)**
+
+Real-time news classifier serving fine-tuned **DistilBERT** at **94.64% accuracy** with **p95 latency of 23 ms** on CPU. Production MLOps stack — streaming pipeline with at-least-once delivery, distributed caching with deduplication, drift monitoring, live dashboards, and automated CI/CD — all running on free-tier managed services with **$0 recurring cost**.
+
+- 🧠 **Model**: DistilBERT fine-tuned on AG News (120K articles) · 94.64% test acc · 94.65% F1 macro · MLflow tracked
+- ⚡ **Serving**: FastAPI on HuggingFace Spaces · async lifespan · full 4-class probability breakdown · p50 19 ms, p95 23 ms
+- 🔄 **Streaming**: Redpanda Kafka → Redis cache (SHA-256 dedup) → SQLite · at-least-once delivery · 230 ms pipeline lag
+- 📈 **Observability**: Prometheus client → Grafana Alloy (pull + remote_write) → Grafana Cloud · 6-panel live dashboard
+- 🔍 **Drift**: weekly Evidently statistical tests (Jensen-Shannon + Wasserstein) → HTML report + MLflow on DagsHub
+- 🤖 **CI/CD**: ruff lint + import smoke on every push · weekly drift cron · path-filtered auto-deploy to HF Spaces
+- 📚 **Docs**: 12 ADRs · 15-problem build log · HLD + LLD with Mermaid sequence diagrams · layman newsroom analogy
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+---
 
 <table>
 <tr>
